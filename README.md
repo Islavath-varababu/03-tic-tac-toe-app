@@ -1,1 +1,1 @@
-# 03-tic-tac-toe-app
+This is a tic tac toe project using react js
